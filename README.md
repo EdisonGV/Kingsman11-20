@@ -10,9 +10,14 @@
 
 ![image](https://user-images.githubusercontent.com/126570612/224987167-8d6af63f-767f-4299-9b77-03effe4b08b0.png)
   
-16/03
-  
-![image](https://user-images.githubusercontent.com/126570612/225632190-ece5299c-f9e7-4e1b-8faf-bef112d06b0d.png)
+24/03
 
-![image](https://user-images.githubusercontent.com/126570612/225632280-feac4501-f980-4d18-a25e-9b8e0b6ff7e9.png)
+<p>Окно входа</p>
+
+![image](https://user-images.githubusercontent.com/120939042/227508329-67086db9-dfae-4440-9551-37fe4bca1899.png)
+
+<p>Окно сервиса</p>
+
+![image](https://user-images.githubusercontent.com/120939042/227508234-8892ab21-5d33-4801-a7f2-582bf5fc07ea.png)
+
 
