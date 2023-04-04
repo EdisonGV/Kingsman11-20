@@ -20,4 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/120939042/227508234-8892ab21-5d33-4801-a7f2-582bf5fc07ea.png)
 
+<p>Окно добавления</p>
+
+![image](https://user-images.githubusercontent.com/126570612/229747949-884a4d9f-8441-4ffe-8d7f-a24088c0b12d.png)
 
